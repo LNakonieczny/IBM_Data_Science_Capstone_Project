@@ -9,7 +9,5 @@ exploratory analysis, training and implementing machine learning models classifi
 - additional Jupyter notebook containing code for downloading datasets needed for the dashboard and its prototyping,
 - python script for generating the dash dashboard (its shell was provided as part of the exercise by Authors),
 - csv files containing datasets created during realization of the project.
-
-To be added:
 - pdf and PowerPoint file containing the presentation prepared according to the template and instructions provided by course Authors.
 
